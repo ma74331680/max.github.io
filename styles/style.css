@@ -1,0 +1,48 @@
+html {
+    background-color: blueviolet;
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: placeholder: this should be the rest of the output you got from Google fonts
+  }
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f11df8b4;
+    padding: 0px 50px 50px 50px;
+    border: 5px solid black;
+}
+
+#the-title{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    text-shadow: 3px 3px 5px rgb(119, 0, 134);
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 1;
+}
+
+h3{
+    font-size: 15px;
+}
+
+ul{
+    font-size: 30px;
+}
